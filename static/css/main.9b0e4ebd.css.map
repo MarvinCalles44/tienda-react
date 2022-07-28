@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9b0e4ebd.css","mappings":"AAAA,SAII,oBAAqB,CAHrB,cAAe,CAEf,OAAQ,CADR,KAAM,CAGN,WACJ","sources":["components/carrito.css"],"sourcesContent":[".carrito{\r\n    position: fixed;\r\n    top: 0;\r\n    right: 0;\r\n    background-color: red;\r\n    width: 400px;\r\n}"],"names":[],"sourceRoot":""}

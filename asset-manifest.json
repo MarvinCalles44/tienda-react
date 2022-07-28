@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarvinCalles44/tienda-react/static/css/main.9b0e4ebd.css",
+    "main.js": "/MarvinCalles44/tienda-react/static/js/main.b6fbfc3f.js",
+    "index.html": "/MarvinCalles44/tienda-react/index.html",
+    "main.9b0e4ebd.css.map": "/MarvinCalles44/tienda-react/static/css/main.9b0e4ebd.css.map",
+    "main.b6fbfc3f.js.map": "/MarvinCalles44/tienda-react/static/js/main.b6fbfc3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b0e4ebd.css",
+    "static/js/main.b6fbfc3f.js"
+  ]
+}
